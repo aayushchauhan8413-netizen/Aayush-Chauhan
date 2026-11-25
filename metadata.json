@@ -1,0 +1,6 @@
+{
+  "name": "HorizonJobs",
+  "description": "Future job advertisements and upcoming hiring pipeline portal for emerging industries, featuring live applications, launch alerts, and an employer publishing studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
